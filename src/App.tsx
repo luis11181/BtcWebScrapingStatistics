@@ -10,6 +10,7 @@ import { Counter } from "./pages/CounterPage";
 import AuthPage from "./pages/AuthPage";
 import NotFound from "./pages/NotFound";
 import { Btc } from "./pages/Btc";
+import { BtcGeneral } from "./pages/BtcGeneral";
 
 function App() {
   return (
@@ -18,7 +19,10 @@ function App() {
         //* suspense with  React.lazy(() => import("./pages/NewQuote")) let us only load the component that is being deployed at first, so it will only load the initial page or the one we visit or want, and later the other ones
       }
       <Routes>
-        <Route path="/" element={<Btc />} />
+        <Route path="/" element={<BtcGeneral />} />
+        <Route path="/BtcWebScrapingStatistics/" element={<BtcGeneral />} />
+        <Route path="/general" element={<BtcGeneral />} />
+        <Route path="/top" element={<Btc />} />
         <Route path="/signIn" element={<AuthPage />} />
         <Route path="/crear-comprobante" element={<AuthPage />} />
         <Route path="/counter" element={<Counter />} />
