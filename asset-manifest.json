@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BtcWebScrapingStatistics/static/css/main.4d88af4b.css",
+    "main.js": "/BtcWebScrapingStatistics/static/js/main.de03b8d1.js",
+    "static/media/psi.png": "/BtcWebScrapingStatistics/static/media/psi.61e4e6c199ccd67c04f4.png",
+    "index.html": "/BtcWebScrapingStatistics/index.html",
+    "main.4d88af4b.css.map": "/BtcWebScrapingStatistics/static/css/main.4d88af4b.css.map",
+    "main.de03b8d1.js.map": "/BtcWebScrapingStatistics/static/js/main.de03b8d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d88af4b.css",
+    "static/js/main.de03b8d1.js"
+  ]
+}
