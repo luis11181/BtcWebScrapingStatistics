@@ -1,8 +1,10 @@
 ### server is not online right now, so the react page is pointing to localhost, and the server must be running there
 
-page that manage over time statistics of bitcoin top wallets and  agregated values, with the data retrieve usinng Web scaping, and being save as json files for later reuse.
+page that manage over time statistics of bitcoin top wallets and  agregated values, with the data retrieve using Web scaping, and being save as json files for later reuse.
 
-## Available Scripts
+## Page screens
+
+## Page of the retrieved data
 
 Information is originally taken fron this page https://bitinfocharts.com/top-100-richest-bitcoin-addresses.html
 
