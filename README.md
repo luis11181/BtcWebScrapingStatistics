@@ -1,6 +1,8 @@
 ### server is not online right now, so the react page is pointing to localhost, and the server must be running there, server code in BtcWebScrapingStatisticsBackend
 
-page that manage over time statistics of bitcoin top wallets and  agregated values, with the data retrieve using Web scaping, and being save as json files for later reuse.
+Simple pupperteer webScraping program that follows the top 100 bitcoin wallets over time, recording the bitcoin prices and agregated values by category, the bitcoin amounts of the top 100 wallets, and notify in case of big withdrawals movements.
+
+Due to the "informal" nature of this project it was implemented with an ineficcinet flat-file database, that runs in nodeJs locally and hosted for free in github pages with react.
 
 ## Page screens
 
