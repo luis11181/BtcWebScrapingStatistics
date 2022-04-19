@@ -1,4 +1,4 @@
-### server is not online right now, so the react page is pointing to localhost, and the server must be running there
+### server is not online right now, so the react page is pointing to localhost, and the server must be running there, server code in BtcWebScrapingStatisticsBackend
 
 page that manage over time statistics of bitcoin top wallets and  agregated values, with the data retrieve using Web scaping, and being save as json files for later reuse.
 
